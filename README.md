@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Abdirsak
 =================================
 
-Data analysist
+Data analyst
 --------------
 
 I have a degree in bachelor of science in statistics from Mount Kenya University
