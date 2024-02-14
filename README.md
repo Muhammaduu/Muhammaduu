@@ -8,7 +8,7 @@ I have a degree in bachelor of science in statistics from Mount Kenya University
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [Abdirsak1960@gmail.com](mailto:Abdirsak1960@gmail.com)
-* 🧠  I'm learning Python, R, spss, MySQl and stata
+* 🧠  I'm skilled in Excel, Python, R, spss, MySQl and stata
 * 🤝  I'm open to collaborating on Am ready teamwork
 
 ### Skills
