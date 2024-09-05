@@ -6,19 +6,32 @@ Data analyst
 
 I hold a Bachelor of Science in Statistics from Mount Kenya University and I'm passionate about data analysis, statistics, and collaborating on data-driven projects.
 
+
+
 🌍 Where I'm Based:
+
 Nairobi, Kenya
+
+
 
 💼 What I Do:
 I'm skilled in using the following tools to extract insights from data:
 
 Excel
+
 Python
+
 R
+
 SPSS
+
 MySQL
+
 Stata
+
+
 📬 How to Reach Me:
+
 Feel free to contact me via email: Abdirsak1960@gmail.com
 
 🤝 Collaboration:
