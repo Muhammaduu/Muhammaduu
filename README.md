@@ -4,12 +4,27 @@ Hi 👋 My name is Mohamed Abdirsak
 Data analyst
 --------------
 
-I have a degree in bachelor of science in statistics from Mount Kenya University
+I hold a Bachelor of Science in Statistics from Mount Kenya University and I'm passionate about data analysis, statistics, and collaborating on data-driven projects.
 
-* 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [Abdirsak1960@gmail.com](mailto:Abdirsak1960@gmail.com)
-* 🧠  I'm skilled in Excel, Python, R, spss, MySQl and stata
-* 🤝  I'm open to collaborate with anyone interested on the same field or related principles and also Am ready for  teamwork and discussions.
+🌍 Where I'm Based:
+Nairobi, Kenya
+
+💼 What I Do:
+I'm skilled in using the following tools to extract insights from data:
+
+Excel
+Python
+R
+SPSS
+MySQL
+Stata
+📬 How to Reach Me:
+Feel free to contact me via email: Abdirsak1960@gmail.com
+
+🤝 Collaboration:
+I'm always open to collaborating on interesting projects in data analysis, statistics, and related fields. If you're working on something exciting or want to discuss new ideas, feel free to reach out. I enjoy teamwork and exploring new challenges in my field.
+
+
 
 ### Skills
 
